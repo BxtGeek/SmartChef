@@ -1,5 +1,6 @@
 # SmartChef
 Eat smart, plan smarter with SmartChef
+![screely-1673989044068](https://user-images.githubusercontent.com/25264755/213010798-a55e76ff-6e8a-4ac1-9071-989a9cd5703d.png)
 
 Welcome to SmartChef, your AI-powered meal prep solution!
 
