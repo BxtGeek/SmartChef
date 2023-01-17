@@ -1,4 +1,4 @@
-# SmartChef-👨‍🍳
+# SmartChef
 Eat smart, plan smarter with SmartChef
 
 Welcome to SmartChef, your AI-powered meal prep solution!
